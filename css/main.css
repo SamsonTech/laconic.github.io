@@ -1,0 +1,47 @@
+
+.menu{
+  background-color: #4c7d09;
+}
+
+.navbar-brand{
+  padding-right: 20px;
+}
+
+.navbar-nav .nav-item .nav-link{
+   color: #ffffff;
+   font-size: 10pt;
+   text-transform: uppercase;
+}
+
+.navbar-nav .active .nav-link{
+   background-color: #fea905;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+   background-color: #fea905;
+}
+
+.button-card{
+  background-color: #4c7d09;
+  color: #ffffff;
+}
+.button-card:hover{
+  background-color: #fea905;
+  color: #ffffff;
+}
+.button-follow{
+    margin:auto;
+    width:250px;
+    background-color: #fea905;
+    color: #ffffff;
+}
+ul>li>a{
+  color:#ffffff;
+}
+ul>li>a:hover{
+  color:#fea905;
+}
+.icon-social{
+  text-align:center;
+  margin-top: 70px;
+}
